@@ -1,17 +1,9 @@
-# Unlocking Web3 Gaming for Millions
 
-## The Problem
-The gaming industry has witnessed a revolution with the advent of blockchain technology, but it comes with its set of challenges. Traditional platforms take a hefty 30% cut, stifling developers' creativity and limiting gamers' experiences. Centralization raises concerns about data security and control.
+![Capture](https://user-images.githubusercontent.com/99970131/206849196-63f3f637-4e59-4df2-b6f9-24f824a81d2f.PNG)
 
-## Our Vision
-At SOLPLAY, we envision a future where Web3 gaming is accessible to millions, devoid of the hindrances of centralized control and excessive fees. We're paving the way for a gaming ecosystem that's transparent, inclusive, and driven by innovation.
+Play On Browser : https://adarshdubey.itch.io/targetblitz 
 
-## 🌐 The SOLPLAY Difference 🌐
+Download APK : https://adarshdubey.itch.io/targetblitz
 
-- **Web3 Pioneers:** We are the first Game Hosting Platform on the Solana Blockchain, and we're leading the charge in bringing gaming to the decentralized world. Our commitment to Web3 principles ensures fairness and openness.
-
-- **Developer-Friendly:** We believe developers should reap the rewards of their hard work. That's why we offer the lowest platform fees, empowering creators to thrive and build exceptional games.
-
-- **Speed & Innovation:** Experience gaming at the speed of light. Our platform is engineered for unmatched performance, enabling cutting-edge gaming experiences that push the boundaries of innovation.
-
-- **Phantom-Powered Security:** With Phantom Wallet integration, your assets and data are in safe hands. Enjoy peace of mind while gaming in the Web3 world.
+# TargetBlitz
+Target Blitz is a fast-paced game that puts your reaction time to the test. In each round, a target appears on the screen and quickly moves toward the edge. Your goal is to tap the target before it disappears off the screen. The faster you tap, the higher your score.
