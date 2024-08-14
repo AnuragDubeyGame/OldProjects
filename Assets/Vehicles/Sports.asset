@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db093469822083d4db7fa67a5f6177d3, type: 3}
+  m_Name: Sports
+  m_EditorClassIdentifier: 
+  Acceleration: 5500
+  MaxSpeed: 1000
+  TurnStrength: 250
+  Drag: 0.98
+  DriftForce: 3000
+  DriftTraction: 0.85
+  DefaultTraction: 3.5
+  minPitch: 0.25
+  maxPitch: 0.95
+  minSpeed: 0
+  maxSpeed: 40
+  minSpeedToEnableDriftSound: 15
+  WallBumpForce: 1200
+  WallBumpCameraShakeIntensity: 1
+  WallBumpCameraShakeFrequency: 0.75
+  WallBumpCameraShakeTime: 0.3
+  StartVFX: {fileID: 3819264908652167484, guid: e0dd8bc58d927f64b81f9515e77361c5,
+    type: 3}
+  BumpVFX: {fileID: 7739029778577697770, guid: f3ca63779e4cece44b5747c99c1df7e7, type: 3}
+  DriftVFX: {fileID: 4121091811543088291, guid: ddf4ea2625767fd4bb4153e7e4009ad5,
+    type: 3}
+  DeathVFX: {fileID: 7160253329161130412, guid: fc270ee772a18ac4994a0d947af3bcbb,
+    type: 3}
+  FinishVFX: {fileID: 0}
+  DeathSFX: {fileID: 8300000, guid: 23330eea805d8794ba59d317bf7fe82c, type: 3}
+  BumpSFX: {fileID: 8300000, guid: d5c55e2717840a04280b8b2457e63db4, type: 3}
+  StartSFX: {fileID: 8300000, guid: 03cbd8ad692630443b502e2ad1edfe01, type: 3}
+  FinishSFX: {fileID: 8300000, guid: 4405a831d4aa49747bbb4b11a989472d, type: 3}
