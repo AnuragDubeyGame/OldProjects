@@ -16,3 +16,5 @@ This repository contains multiple branches, each representing a different projec
 - [Upwork_Web3Soccer](https://github.com/AnuragDubeyGame/oldProjects/tree/Upwork_Web3Soccer)
 - [VR-Model-Assembly-Room_Unity](https://github.com/AnuragDubeyGame/oldProjects/tree/VR-Model-Assembly-Room_Unity)
 - [YT_AutoPoster_Shorts](https://github.com/AnuragDubeyGame/oldProjects/tree/YT_AutoPoster_Shorts)
+- [VR-CollageWalkthrough](https://github.com/AnuragDubeyGame/Upwork_VR_CollageWalkthrough)
+- [CrowdCharacterFormation](https://github.com/AnuragDubeyGame/Upwork_CrowdCharacterFormation)
